@@ -1,0 +1,3 @@
+[submodule "ArduinoSerialWrapper"]
+	path = ArduinoSerialWrapper
+	url = https://github.com/wmhilton/ArduinoSerialWrapper
